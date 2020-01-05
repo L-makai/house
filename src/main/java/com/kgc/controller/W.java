@@ -1,4 +1,4 @@
 package com.kgc.controller;
 
-public class A {
+public class W {
 }
